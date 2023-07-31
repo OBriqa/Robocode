@@ -1,2 +1,4 @@
 # Robocode
-Implementació de robots que juguen al clàssic Robocode
+## Implementació de robots que juguen al clàssic Robocode
+
+dos robots
